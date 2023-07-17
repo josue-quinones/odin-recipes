@@ -5,8 +5,8 @@ Written in:
 * HTML
 
 Goals:
-[*] Create a single webpage
-[*] Use git to handle all source control (instead of Github Desktop)
+- [x] Create a single webpage
+- [x] Use git to handle all source control (instead of Github Desktop)
 
 Lessons Learned:
 1. Use simple recipes for simple webpages
