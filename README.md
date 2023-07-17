@@ -7,6 +7,7 @@ Written in:
 Goals:
 - [x] Create a single webpage
 - [x] Use git to handle all source control (instead of Github Desktop)
+- [ ] Add CSS
 
 Lessons Learned:
 1. Use simple recipes for simple webpages
