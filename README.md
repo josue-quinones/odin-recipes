@@ -3,6 +3,7 @@ The Odin Project's recipe project.
 
 Written in:
 * HTML
+* CSS
 
 Goals:
 - [x] Create a single webpage
